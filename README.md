@@ -3,7 +3,7 @@ Stable release for iCLIP V3
 
 # Docker Repository
 
-All recipes for building the Docker container can be found [here](https://github.com/NCI-RBL/Dockers/tree/main)
+All recipes for building the Docker container can be found [here](https://github.com/NCI-RBL/Dockers/tree/main).
 
 # Workflow documentation
 
