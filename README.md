@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/835864824.svg)](https://zenodo.org/doi/10.5281/zenodo.13145525)
+
+
 # iCLIP_V3
 Stable release for iCLIP V3
 
