@@ -1,8 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: Guiblet Sim
-  given-names: Wilfried Soyeong
-title:NCI-RBL/iCLIP_V3: Initial release
+- family-names: "Guiblet"
+  given-names: "Wilfried"
+- family-names: "Sim"
+  given-names: "Soyeong"
+title: "iCLIP_V3"
 version: 1.0.0
+doi: 10.5281/zenodo.10107622
 date-released: 2024-07-31
+url: "https://github.com/NCI-RBL/iCLIP_V3"
